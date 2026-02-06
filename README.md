@@ -18,6 +18,9 @@
 - `run_ocr_visualize.py`
   - 功能：对 `IMAGE_PATH` 指定图片做 OCR，并将检测框 + `文字 + 置信度` 画到图片上
   - 输出：`ocr_visualization.png`（保存到本目录）
+- `doc_edit_web.py`
+  - 功能：双面板网页导入 PNG/SVG/PDF/XLSX，经 OCR/解析后可交互编辑并导出 Excel
+  - 使用方式：`doc_edit_web_使用说明.md`
 - `ocr_visualization.png`
   - 功能：`run_ocr_visualize.py` 的默认输出图片（可覆盖生成）
 

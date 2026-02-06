@@ -5,7 +5,7 @@ import traceback
 from PIL import Image, ImageDraw, ImageFont
 
 
-IMAGE_PATH = r"C:\Users\Admin\Desktop\Snipaste_2026-02-06_16-15-11.png"
+IMAGE_PATH = r"C:\Users\Admin\Desktop\Snipaste_2026-02-06_16-48-53.png"
 OUTPUT_PATH = os.path.join(os.path.dirname(__file__), "ocr_visualization.png")
 
 
